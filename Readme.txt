@@ -4,3 +4,4 @@ Test
 Git tracks changes.
 lsdkfjsdlkjlfsd
 sdlfksdjfld
+Creating a new branch is quick.
